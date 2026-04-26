@@ -1,0 +1,11 @@
+.trust {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.trust p {
+  font-size: 14px;
+  color: #6b7280;
+}
