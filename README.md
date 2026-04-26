@@ -62,9 +62,6 @@ npm run build
 * Assets are locally managed.
 * Styling is implemented using plain CSS for clarity and control.
 
-## Deployment
-
-Deployed using Vercel.
 
 ## Objective
 
